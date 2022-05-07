@@ -1,0 +1,15 @@
+.postContainer {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid whitesmoke;;
+}
+
+.title {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.header {
+    font-size: 2rem;
+    text-align: center;
+}

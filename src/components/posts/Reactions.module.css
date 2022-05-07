@@ -1,0 +1,8 @@
+.reactionBtn {
+    background: #333;
+    cursor: pointer;
+    border: none;
+    color: whitesmoke;
+    margin: 0.3rem 0.5rem 0.3rem 0;
+    font-size: 1rem;
+}

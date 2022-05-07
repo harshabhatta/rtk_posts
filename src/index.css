@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 16px;
+  font-family: Cambria,
+  Cochin,
+  Georgia,
+  Times,
+  "Times New Roman",
+  serif;
+  background: #333;
+  color: whitesmoke;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
